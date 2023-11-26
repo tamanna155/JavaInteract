@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript interaction with prompt,alert and confirm</title>
+</head>
+<body>
+    <div class="container">
+        heheheheh Louuuu you toooo
+    </div>
+    <script>
+        alert("You have landed my mind, no jokingly answers accepted i cri!!");
+        let name=prompt("Mau you dont louuuuu me anymore? 🤭👉👈🏻");
+        console.log(name);
+    </script>
+</body>
+</html>
